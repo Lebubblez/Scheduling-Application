@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 15, 2019, 2:53:29 PM
+    Author     : ledaerlandson
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Jun 2, 2019, 7:37:55 AM
+    Author     : Leda Erlandson
+*/
+
+.root {
+    -fx-background-image: url("https://img.freepik.com/free-vector/yellow-background-with-dynamic-abstract-shapes_1393-144.jpg?size=626&ext=jpg");
+    -fx-background-color: lightblue;
+}
+.data0.chart-bar {
+    -fx-background-color: blue;
+}
+.data1.chart-bar {
+    -fx-background-color: greenyellow;
+}
+.data2.chart-bar {
+    -fx-background-color: red;
+}
+.chart-plot-background {
+    -fx-background-color: transparent;
+}
+.table-row-cell{
+    -fx-background-image-opacity: url("https://img.freepik.com/free-vector/yellow-background-with-dynamic-abstract-shapes_1393-144.jpg?size=626&ext=jpg");
+}
